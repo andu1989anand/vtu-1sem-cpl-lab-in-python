@@ -1,4 +1,8 @@
-""" python program to find two roots of a quadratic equation """
+""" python program to Design and develop a flowchart or an algorithm that takes three coefficients (a, b, and c) of
+a Quadratic equation (ax^2 +bx+c=0) as input and compute all possible roots. Implement a C
+program for the developed flowchart/algorithm and execute the same to output the possible
+roots for a given set of coefficients with appropriate messages.find two roots of a quadratic equation """
+
 a=float(input("enter value of a:"))
 b=float(input("enter value of b:"))
 c=float(input("enter value of c:"))
