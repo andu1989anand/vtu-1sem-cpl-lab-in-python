@@ -1,5 +1,5 @@
 """Design and develop an algorithm to find the reverse of an integer number NUM and check
-whether it is PALINDROME or NOT. Implement a C program for the developed
+whether it is PALINDROME or NOT. Implement a Python program for the developed
 algorithm that takes an integer number as input and output the reverse of the same with
 suitable messages. Ex: Num: 2014, Reverse: 4102, Not a Palindrome"""
 
