@@ -1,5 +1,5 @@
 """ python program to Design and develop a flowchart or an algorithm that takes three coefficients (a, b, and c) of
-a Quadratic equation (ax^2 +bx+c=0) as input and compute all possible roots. Implement a C
+a Quadratic equation (ax^2 +bx+c=0) as input and compute all possible roots. Implement a Python 
 program for the developed flowchart/algorithm and execute the same to output the possible
 roots for a given set of coefficients with appropriate messages.find two roots of a quadratic equation """
 
