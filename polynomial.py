@@ -5,7 +5,6 @@ print "the same and execute the program for different sets of values of coeffici
 a=[]
 n=input("\nenter number of coefficients:")
 print "enter coefficients:"
-i=1
 for i in range(0,n):
     a.append(input())
 
